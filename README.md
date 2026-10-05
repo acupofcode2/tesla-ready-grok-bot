@@ -5,7 +5,7 @@ These are the skills behind the [Tesla Ready](https://x.ai/bot/L5Sczwabgsf59rZ6R
 **Install:** https://x.ai/bot/L5Sczwabgsf59rZ6RTChF
 
 ## What it does
-Warms or cools a Tesla cabin so it is at temperature when you leave (calendar + traffic, or on demand). After a one-time phone setup it runs automatically.
+**Free.** Warms or cools a Tesla cabin so it is at temperature when you leave (calendar + traffic, or on demand). One-time phone setup; Tesla's free $10/month developer credit covers normal use — no card required.
 
 ## How it talks to the car
 Only through **Tesla's official Fleet API**. You create your own free Tesla developer app; the bot hosts a public key file (Netlify or GitHub), you approve access on your phone, and you add the bot as a key on the car. Commands run from the bot's computer using Tesla's open-source vehicle-command tools.
